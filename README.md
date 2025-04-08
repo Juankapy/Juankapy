@@ -25,13 +25,13 @@ Soy un desarrollador apasionado por la tecnología y el aprendizaje constante. M
 
 
 <div align="center">
-  <a href="https://www.instagram.com/tuusuario" target="_blank">
+  <a href="https://www.instagram.com/juanka_p.v" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram" />
   </a>
-  <a href="mailto:tuemail@gmail.com" target="_blank">
+  <a href="mailto:jpereavelasco@safareyes.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/tuusuario/" target="_blank">
+  <a href="https://www.linkedin.com/in/juan-carlos-perea-velasco/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
   </a>
 </div>
