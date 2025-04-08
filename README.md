@@ -4,16 +4,12 @@ Soy un desarrollador apasionado por la tecnología y el aprendizaje constante. M
 
 ---
 
-### 📊 Estadísticas
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Juankapy&show_icons=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=Juankapy&theme=dracula&hide_border=false&border_radius=5" height="150" alt="GitHub Streak" />
 </div>
 
 ---
-
-### 🧰 Tecnologías que uso
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
@@ -27,8 +23,6 @@ Soy un desarrollador apasionado por la tecnología y el aprendizaje constante. M
 </div>
 
 ---
-
-### 📫 Puedes encontrarme en
 
 <div align="center">
   <a href="https://www.instagram.com/tuusuario" target="_blank">
@@ -44,7 +38,6 @@ Soy un desarrollador apasionado por la tecnología y el aprendizaje constante. M
 
 ---
 
-### 🐍 Animación
 
 <img src="https://raw.githubusercontent.com/Juankapy/Juankapy/output/snake.svg" alt="Snake animation" />
 
